@@ -1,0 +1,36 @@
+h1 {
+    background-color: #5bccf6;
+    color:rgb(0, 0, 0);
+}
+h4 {
+    color: rgb(0, 0, 0);
+}
+h3 {
+    color:#5bccf6
+}
+div {
+    color: #5bccf6
+    border 5px solid rgb(0, 0, 0);
+}
+
+
+body { 
+    background-image: url(images/yellow5.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+img {
+    border: 7px solid #5bccf6
+}
+
+hr {
+    border: 2px dashed #5bccf6;
+}
+
+
+a[href] {
+    background-color: #5bccf6;
+    color:azure
+ }
